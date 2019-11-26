@@ -1,0 +1,56 @@
+.canvas{
+	box-shadow: 0 0 40px rgba(0, 0, 0, 0.1);
+    width: auto;
+    max-width: 1060px;
+	margin: 0 auto;
+    padding: 35px;
+    position: relative;
+	background-color: #fff;
+}	 
+/*Topo - logo*/	 
+.topo{
+	box-shadow: 0 0 40px rgba(0,0,0,.12);
+	width: 100%;
+    height: 100%;
+	text-align: center;
+}
+
+/*Corpo - textos*/
+h2{
+	text-align: left;
+}
+a {
+	color: #bd55c39e;
+}
+.conteudo{
+	text-align: justify;
+}
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+.container {
+  width: 100%;
+  background-color: #ddd;
+}
+.cobol{width: 80%; height: 40px; background-color: #bd55c39e;}
+.java {width: 70%; height: 40px; background-color: #bd55c39e;}
+.javascript {width: 50%; height: 40px; background-color: #bd55c39e;}
+.html {width: 50%; height: 40px; background-color: #bd55c39e;}
+.avatar{
+	text-align: center;
+}
+.contatos{
+	text-align: center;
+}
+/*rodape - links redes*/
+.rodape{
+	word-spacing: 10px;
+	text-align: center;
+	padding: 08 15 08px;
+	box-shadow: 0 0 40px rgba(0,0,0,.05);
+	background-color: #fff;
+	border-radius: 15px;
+}
